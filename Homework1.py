@@ -214,3 +214,5 @@ def basic_calculator(arg1 , arg2 , arg3):
       return arg2 / arg2
       
 print('Exercise 9 Result:', basic_calculator(10, 5, "subtract"))
+
+print ("d")
